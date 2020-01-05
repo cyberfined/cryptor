@@ -1,0 +1,3 @@
+[submodule "cryload"]
+	path = cryload
+	url = https://github.com/cyberfined/cryload
